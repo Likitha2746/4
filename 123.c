@@ -1,5 +1,5 @@
 #include<stdio.h>
 main()
 {
-printf("numbers are");
+printf("numbers are a and b");
 }
